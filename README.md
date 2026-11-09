@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cyber Portfolio v2
+# Cyber Portfolio 
 
 **Portfolio personale in 3D interattivo: esplora una stanza virtuale (scrivania, server rack, laboratorio) e apri i dettagli di progetti, stack e link da hotspot cliccabili. Tutto nel browser, nessun backend, nessun database.**
 
